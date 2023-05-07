@@ -56,6 +56,5 @@ class CuponController extends Controller
             ]);
         }
 
-
     }
 }
